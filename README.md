@@ -160,3 +160,8 @@ Accuracy of car   : 71.12 %
   * Dropout / BatchNorm
   * Better architecture (ResNet, etc.)
 
+![Image](https://github.com/user-attachments/assets/858cf22b-316f-4e7c-ace3-5dcb310f3ed7)
+![Image](https://github.com/user-attachments/assets/ac1051b0-4e33-4a41-a440-d294ea814672)
+![Image](https://github.com/user-attachments/assets/278150a5-c37d-4ce2-98fc-036c96946fcc)
+![Image](https://github.com/user-attachments/assets/cc643282-4e1f-45cd-9846-4a252725d27c)
+![Image](https://github.com/user-attachments/assets/a8e0baaa-5ebd-43f7-a1e2-6a8d4238dd17)
